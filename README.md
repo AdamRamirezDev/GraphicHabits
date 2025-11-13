@@ -1,6 +1,6 @@
 # Graphic Habits
 Rastrea el progreso de tus habitos con graficas! Crea tu habito, dale un nombre, elige un color y completalo.
-Esta app te permite visualisar tu progreso todos los dias.
+Esta app te permite visualizar tu progreso todos los dias.
 
 Este proyecto se inicio el dia 23/072024 y hasta el dia de hoy, lo sigo mejorando
 para que sea cada vez sea mas funcional, interactivo y que tenga menos errores. 
