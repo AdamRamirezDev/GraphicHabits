@@ -44,7 +44,7 @@ https://habitosapp.netlify.app/
 All Rights Reserved
 
 ## Contacto
-💻 **Mi perfil de Linkedin:** [Linkedin](https://www.linkedin.com/in/adam-samuel-inzunza-ramirez/)  
-🌐 **Mira mi portafolio!** [Portafolio](https://cuandoyolabi.github.io/PortafolioFrontend/)  
+💻 **Mi perfil de Linkedin:** [Linkedin](https://www.linkedin.com/feed/)  
+🌐 **Mira mi portafolio!** [Portafolio](https://adamramirezdev.github.io/PortafolioFrontend/)  
 📩 **Email: [adaminzunza3@gmail.com](mailto:adaminzunza3@gmail.com)** ​  
 📱 **Telefono: 3320664573**
